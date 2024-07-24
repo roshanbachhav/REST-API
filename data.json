@@ -1,0 +1,104 @@
+[
+    {
+        "name" : "V.M.Fitness Unisex Gym",
+        "typeOf" : "GYM",
+        "description" : "V.M. Fitness is one of the best gym and workout centre in Nashik. V.M. Fitness has modern and well maintained equipments for weight loss, cross fit, weight training, cardio, functional fitness and yoga.",
+        "state" : "Maharashtra",
+        "city" : "Nashik",
+        "location" : "Above little Star Play School,Behind Soni Park Apt, near Dhanvantari collage, Kamatwade, Nashik, Maharashtra 422008",
+        "featured" : true
+    },
+    {
+        "name" : "BIG BOUNCE TURF",
+        "typeOf" : "TURF",
+        "description" : "NAVIGATE direction-img. Available Sports. Box Cricket. Football. Offers",
+        "state" : "Maharashtra",
+        "city" : "Nashik",
+        "location" : "Above little Star Play School,Behind Soni Park Apt, near Dhanvantari collage, Kamatwade, Nashik, Maharashtra 422008",
+        "featured" : true
+    },
+    {
+        "name" : "Floral Sojourn",
+        "typeOf" : "PICNIC",
+        "description" : "Floral Sojourn is a unique Agro-tourism destination in Nashik. It is a fully Iandscaped farm containing systematic plantation of various kinds of Fruit Trees, Agroforestry Trees and number of Flowering and Religious Trees and trees. It is a Plantation Park having harmonious blending of rich Bio-diversity",
+        "state" : "Maharashtra",
+        "city" : "Nashik",
+        "location" : "Nashik, Maharashtra 422008, Govind Nagar, Radha Vasudev Batavia Nagar, Nashik 422008.",
+        "featured" : true
+    },
+    {
+        "name": "Fitness Factory",
+        "typeOf": "GYM",
+        "description": "Fitness Factory in Nashik offers a range of facilities including weight training, cardio, functional training, and personal coaching. The gym is equipped with state-of-the-art machines and provides a motivating environment for all fitness levels.",
+        "state": "Maharashtra",
+        "city": "Nashik",
+        "location": "Fitness Factory, Nashik-Mumbai Highway, Opposite City Centre Mall, Nashik, Maharashtra 422009"
+    },
+    {
+        "name": "The Gameyard Turf",
+        "typeOf": "TURF",
+        "description": "The Gameyard Turf in Nashik is a premium facility for football and cricket enthusiasts. With high-quality turf, lighting, and amenities, it offers a great experience for sports lovers looking to play or practice.",
+        "state": "Maharashtra",
+        "city": "Nashik",
+        "location": "The Gameyard Turf, Ambad, Nashik, Maharashtra 422010"
+    },
+    {
+        "name": "Nature's Bliss Picnic Spot",
+        "typeOf": "PICNIC",
+        "description": "Nature's Bliss is a serene picnic spot in Nashik, surrounded by lush greenery and scenic views. Ideal for family outings and gatherings, it offers picnic areas, children's play zones, and walking trails.",
+        "state": "Maharashtra",
+        "city": "Nashik",
+        "location": "Nature's Bliss, Trimbak Road, Near Anjneri, Nashik, Maharashtra 422213"
+    },
+    {
+        "name": "Gold's Gym",
+        "typeOf": "GYM",
+        "description": "Gold's Gym in Mumbai offers world-class facilities with cutting-edge equipment and highly trained instructors. Known for its professional training programs, it's a top choice for fitness enthusiasts.",
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "location": "Gold's Gym, Bandra West, Mumbai, Maharashtra 400050",
+        "featured": true
+    },
+    {
+        "name": "The St. Regis Athletic Club",
+        "typeOf": "GYM",
+        "description": "The St. Regis Athletic Club is an exclusive fitness club offering personalized training, a swimming pool, and luxurious amenities. It's part of the prestigious St. Regis Hotel in Mumbai.",
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "location": "The St. Regis, Lower Parel, Mumbai, Maharashtra 400013",
+        "featured": true
+    },
+    {
+        "name": "Ozone Fitness & Spa",
+        "typeOf": "GYM",
+        "description": "Ozone Fitness & Spa in Mumbai is known for its holistic wellness approach, combining fitness, spa treatments, and nutrition. It offers a tranquil environment for rejuvenation and fitness.",
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "location": "Ozone Fitness & Spa, Colaba, Mumbai, Maharashtra 400005",
+        "featured": true
+    },
+    {
+        "name": "Tiger's Gym",
+        "typeOf": "GYM",
+        "description": "Tiger's Gym in Mumbai is famous for its dedicated training programs for bodybuilding and fitness. It provides a hardcore training environment with professional trainers and state-of-the-art equipment.",
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "location": "Tiger's Gym, Andheri West, Mumbai, Maharashtra 400058"
+    },
+    {
+        "name": "FIFA Certified Football Turf",
+        "typeOf": "TURF",
+        "description": "This FIFA-certified football turf in Mumbai offers top-quality facilities for football enthusiasts. It is well-maintained and equipped with excellent lighting, making it suitable for both casual and competitive play.",
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "location": "FIFA Certified Football Turf, Powai, Mumbai, Maharashtra 400076"
+    },
+    {
+        "name": "R-City Mall Entertainment Zone",
+        "typeOf": "MALL",
+        "description": "R-City Mall Entertainment Zone in Mumbai is a hub for shopping, dining, and entertainment. It features a wide range of stores, restaurants, and entertainment options, including a multiplex and game zones.",
+        "state": "Maharashtra",
+        "city": "Mumbai",
+        "location": "R-City Mall, Ghatkopar West, Mumbai, Maharashtra 400086"
+    }
+]
