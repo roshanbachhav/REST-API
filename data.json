@@ -1,116 +1,333 @@
 [
-    {
-        "name" : "V.M.Fitness Unisex Gym",
-        "typeOf" : "GYM",
-        "description" : "V.M. Fitness is one of the best gym and workout centre in Nashik. V.M. Fitness has modern and well maintained equipments for weight loss, cross fit, weight training, cardio, functional fitness and yoga.",
-        "state" : "Maharashtra",
-        "city" : "Nashik",
-        "location" : "Above little Star Play School,Behind Soni Park Apt, near Dhanvantari collage, Kamatwade, Nashik, Maharashtra 422008",
-        "image" : "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Z3ltfGVufDB8fDB8fHww",
-        "featured" : true
-    },
-    {
-        "name" : "BIG BOUNCE TURF",
-        "typeOf" : "TURF",
-        "description" : "NAVIGATE direction-img. Available Sports. Box Cricket. Football. Offers",
-        "state" : "Maharashtra",
-        "city" : "Nashik",
-        "location" : "Above little Star Play School,Behind Soni Park Apt, near Dhanvantari collage, Kamatwade, Nashik, Maharashtra 422008",
-        "image" : "https://images.jdmagicbox.com/comp/nashik/s9/0253px253.x253.211222185501.z3s9/catalogue/-k0dbvg4vj5.jpg",
-        "featured" : true
-    },
-    {
-        "name" : "Floral Sojourn",
-        "typeOf" : "PICNIC",
-        "description" : "Floral Sojourn is a unique Agro-tourism destination in Nashik. It is a fully Iandscaped farm containing systematic plantation of various kinds of Fruit Trees, Agroforestry Trees and number of Flowering and Religious Trees and trees. It is a Plantation Park having harmonious blending of rich Bio-diversity",
-        "state" : "Maharashtra",
-        "city" : "Nashik",
-        "location" : "Nashik, Maharashtra 422008, Govind Nagar, Radha Vasudev Batavia Nagar, Nashik 422008.",
-        "image" : "https://images.jdmagicbox.com/comp/nashik/e1/0253px253.x253.131227110209.a5e1/catalogue/floral-sojourn-panchavati-nashik-resorts-rqbno8vgay.jpg",
-        "featured" : true
-    },
-    {
-        "name": "Fitness Factory",
-        "typeOf": "GYM",
-        "description": "Fitness Factory in Nashik offers a range of facilities including weight training, cardio, functional training, and personal coaching. The gym is equipped with state-of-the-art machines and provides a motivating environment for all fitness levels.",
-        "state": "Maharashtra",
-        "city": "Nashik",
-        "image" : "https://content.jdmagicbox.com/comp/warangal/s5/9999px870.x870.220111185105.j9s5/catalogue/-euvv5f6bnj.jpg",
-        "location": "Fitness Factory, Nashik-Mumbai Highway, Opposite City Centre Mall, Nashik, Maharashtra 422009"
-    },
-    {
-        "name": "The Gameyard Turf",
-        "typeOf": "TURF",
-        "description": "The Gameyard Turf in Nashik is a premium facility for football and cricket enthusiasts. With high-quality turf, lighting, and amenities, it offers a great experience for sports lovers looking to play or practice.",
-        "state": "Maharashtra",
-        "city": "Nashik",
-        "image": "https://content.jdmagicbox.com/comp/mumbai/p8/022pxx22.xx22.220811180605.h5p8/catalogue/enc-sports-turf-jk-gram-thane-west-mumbai-yhq2pyqds4.jpg?clr=",
-        "location": "The Gameyard Turf, Ambad, Nashik, Maharashtra 422010"
-    },
-    {
-        "name": "Nature's Bliss Picnic Spot",
-        "typeOf": "PICNIC",
-        "description": "Nature's Bliss is a serene picnic spot in Nashik, surrounded by lush greenery and scenic views. Ideal for family outings and gatherings, it offers picnic areas, children's play zones, and walking trails.",
-        "state": "Maharashtra",
-        "city": "Nashik",
-        "image" : "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/22/31/ba/the-climb-to-the-fort.jpg?w=700&h=-1&s=1",
-        "location": "Nature's Bliss, Trimbak Road, Near Anjneri, Nashik, Maharashtra 422213"
-    },
-    {
-        "name": "Gold's Gym",
-        "typeOf": "GYM",
-        "description": "Gold's Gym in Mumbai offers world-class facilities with cutting-edge equipment and highly trained instructors. Known for its professional training programs, it's a top choice for fitness enthusiasts.",
-        "state": "Maharashtra",
-        "city": "Mumbai",
-        "image" : "https://i0.wp.com/goldsgym.in/wp-content/uploads/2023/12/Strength-Area-2.jpg?fit=1125%2C750&ssl=1",
-        "location": "Gold's Gym, Bandra West, Mumbai, Maharashtra 400050",
-        "featured": true
-    },
-    {
-        "name": "The St. Regis Athletic Club",
-        "typeOf": "GYM",
-        "description": "The St. Regis Athletic Club is an exclusive fitness club offering personalized training, a swimming pool, and luxurious amenities. It's part of the prestigious St. Regis Hotel in Mumbai.",
-        "state": "Maharashtra",
-        "city": "Mumbai",
-        "image" : "https://media-cdn.tripadvisor.com/media/photo-s/0e/a2/fd/11/the-st-regis-athletic-club--v1571.jpg",
-        "location": "The St. Regis, Lower Parel, Mumbai, Maharashtra 400013",
-        "featured": true
-    },
-    {
-        "name": "Ozone Fitness & Spa",
-        "typeOf": "GYM",
-        "description": "Ozone Fitness & Spa in Mumbai is known for its holistic wellness approach, combining fitness, spa treatments, and nutrition. It offers a tranquil environment for rejuvenation and fitness.",
-        "state": "Maharashtra",
-        "city": "Mumbai",
-        "location": "Ozone Fitness & Spa, Colaba, Mumbai, Maharashtra 400005",
-        "image" : "https://www.ozoneclubs.com/images/image6333618.jpg",
-        "featured": true
-    },
-    {
-        "name": "Tiger's Gym",
-        "typeOf": "GYM",
-        "description": "Tiger's Gym in Mumbai is famous for its dedicated training programs for bodybuilding and fitness. It provides a hardcore training environment with professional trainers and state-of-the-art equipment.",
-        "state": "Maharashtra",
-        "city": "Mumbai",
-        "image" : "https://images.jdmagicbox.com/v2/comp/mumbai/b4/022pxx22.xx22.170527183718.i1b4/catalogue/fit-fighter-gym-vakola-santacruz-east-mumbai-gyms-elz6w.jpg",
-        "location": "Tiger's Gym, Andheri West, Mumbai, Maharashtra 400058"
-    },
-    {
-        "name": "FIFA Certified Football Turf",
-        "typeOf": "TURF",
-        "description": "This FIFA-certified football turf in Mumbai offers top-quality facilities for football enthusiasts. It is well-maintained and equipped with excellent lighting, making it suitable for both casual and competitive play.",
-        "state": "Maharashtra",
-        "city": "Mumbai",
-        "image" : "https://5.imimg.com/data5/TZ/FM/DY/SELLER-11134835/artificial-grass-500x500.jpg",
-        "location": "FIFA Certified Football Turf, Powai, Mumbai, Maharashtra 400076"
-    },
-    {
-        "name": "R-City Mall Entertainment Zone",
-        "typeOf": "MALL",
-        "description": "R-City Mall Entertainment Zone in Mumbai is a hub for shopping, dining, and entertainment. It features a wide range of stores, restaurants, and entertainment options, including a multiplex and game zones.",
-        "state": "Maharashtra",
-        "city": "Mumbai",
-        "image" : "https://content3.jdmagicbox.com/v2/comp/mumbai/n3/022pxx22.xx22.150710115130.m1n3/catalogue/timezone-entertainment-pvt-ltd-r-city-mall-ghatkopar-west-mumbai-entertainment-centres-s9ju7tuskt.jpg",
-        "location": "R-City Mall, Ghatkopar West, Mumbai, Maharashtra 400086"
-    }
+  {
+    "name": "Gateway of India",
+    "typeOf": "HISTORICAL",
+    "description": "An iconic monument located in Mumbai, offering views of the Arabian Sea.",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "location": "Apollo Bunder, Colaba, Mumbai, Maharashtra 400001",
+    "image": "https://media.istockphoto.com/id/1307189136/photo/gateway-of-india-mumbai-maharashtra-monument-landmark-famous-place-magnificent-view-without.jpg?s=612x612&w=0&k=20&c=gGzzkXY5bAVbRbokzrjvkt7Ve-Z3yzSVN04NaMqyBB8=",
+    "featured": true
+  },
+  {
+    "name": "Elephanta Caves",
+    "typeOf": "HISTORICAL",
+    "description": "A network of sculpted caves on Elephanta Island, known for its rock-cut temples.",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "location": "Elephanta Island, Mumbai, Maharashtra 400094",
+    "image": "https://media.istockphoto.com/id/979180834/photo/elephanta-caves-historical-architecture-in-mumbai-india.jpg?s=612x612&w=0&k=20&c=DBPpMr6nBxQF8upTxZUS9S9UUq-LV5iKlH8_BCrKIh0=",
+    "featured": false
+  },
+  {
+    "name": "Bhaja Village, Lonavala",
+    "typeOf": "NATURE",
+    "description": "Bhaja Caves is a set of spectacular rock-cut caves, which has been classified as a national monument. It is believed to be one of the oldest caves in India, belonging to 2nd to 1st century BCE, and the fine Buddhist excavations in these caves date back to the Hinayana phase of Buddhism.",
+    "state": "Maharashtra",
+    "city": "Lonavala",
+    "location": "Lonavala, Maharashtra 410401",
+    "image": "https://www.fabhotels.com/blog/wp-content/uploads/2023/01/Bhaja-Caves.jpg",
+    "featured": false
+  },
+  {
+    "name": "India Gate",
+    "typeOf": "HISTORICAL",
+    "description": "A war memorial dedicated to Indian soldiers, located in the heart of Delhi.",
+    "state": "Delhi",
+    "city": "Delhi",
+    "location": "Rajpath, India Gate, New Delhi, Delhi 110001",
+    "image": "https://media.istockphoto.com/id/898467608/photo/the-india-gate-in-delhi.jpg?s=612x612&w=0&k=20&c=gXUaUcAJf7TD8VZ1UvBfNGU0SNNzqg-xuIx_eXgL1OM=",
+    "featured": true
+  },
+  {
+    "name": "Qutub Minar",
+    "typeOf": "HISTORICAL",
+    "description": "A UNESCO World Heritage Site and the tallest brick minaret in the world.",
+    "state": "Delhi",
+    "city": "Delhi",
+    "location": "Qutub Complex, Mehrauli, New Delhi, Delhi 110030",
+    "image": "https://media.istockphoto.com/id/184602563/photo/qutb-minar-delhi-india.jpg?s=612x612&w=0&k=20&c=rPrDTi2UPDV4olBSLGQo6ETGclqA8349XlBUMOjKD4M=",
+    "featured": true
+  },
+  {
+    "name": "Humayun's Tomb",
+    "typeOf": "HISTORICAL",
+    "description": "A beautifully preserved tomb of the Mughal Emperor Humayun, known for its stunning architecture.",
+    "state": "Delhi",
+    "city": "Delhi",
+    "location": "Humayun's Tomb, Mathura Road, New Delhi, Delhi 110003",
+    "image": "https://media.istockphoto.com/id/532703419/photo/humayuns-tomb-delhi-india.jpg?s=612x612&w=0&k=20&c=xLOQ5pzw0NJ-TSjhCmDViCygbE92coHOQREtRaYEqyI=",
+    "featured": false
+  },
+  {
+    "name": "Bangalore Palace",
+    "typeOf": "HISTORICAL",
+    "description": "A grand palace with Tudor-style architecture located in Bangalore.",
+    "state": "Karnataka",
+    "city": "Bangalore",
+    "location": "Palace Road, Bangalore, Karnataka 560052",
+    "image": "https://media.istockphoto.com/id/1194408153/photo/bangalore-palace-bengaluru-karnataka-india.jpg?s=612x612&w=0&k=20&c=I_19wwH9TwFHBkabOw4QjPueMXX_ituZtbFzVJa5L5I=",
+    "featured": false
+  },
+  {
+    "name": "Mysore Palace",
+    "typeOf": "HISTORICAL",
+    "description": "An opulent palace in Mysore known for its beautiful architecture and rich history.",
+    "state": "Karnataka",
+    "city": "Mysore",
+    "location": "Sayyaji Rao Road, Mysore, Karnataka 570001",
+    "image": "https://media.istockphoto.com/id/172124032/photo/mysore-palace-at-dusk.jpg?s=612x612&w=0&k=20&c=paO74C_dVsY14IbK0RNqs0TD-lSteQy-AW5CnQFEb_4=",
+    "featured": false
+  },
+  {
+    "name": "Coorg",
+    "typeOf": "NATURE",
+    "description": "A popular hill station known for its coffee plantations and scenic landscapes.",
+    "state": "Karnataka",
+    "city": "Coorg",
+    "location": "Coorg, Karnataka 571201",
+    "image": "https://media.istockphoto.com/id/1646251044/photo/a-bewitching-mallalli-waterfall-flows-majestically-in-the-rain-forests-of-the-coorg-hill.jpg?s=612x612&w=0&k=20&c=QCB6goTkrTbm1nZHtKM5OoyRmKz6ugN1mZzWKWBN65c=",
+    "featured": true
+  },
+  {
+    "name": "Marina Beach",
+    "typeOf": "BEACH",
+    "description": "One of the longest urban beaches in the world, located in Chennai.",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "location": "Marina Beach, Chennai, Tamil Nadu 600005",
+    "image": "https://media.istockphoto.com/id/1211952929/photo/marina-beach-chennai-city-tamil-nadu-india-bay-of-bengal-chennai-tourism-east-coast-road.jpg?s=612x612&w=0&k=20&c=kpAeGGwy3TyyD97PJYULLBhxZV9bM_zVP0CU7f1HIZc=",
+    "featured": true
+  },
+  {
+    "name": "Baga Beach",
+    "typeOf": "BEACH",
+    "description": "A popular beach in North Goa known for its vibrant nightlife, water sports, and bustling atmosphere.",
+    "state": "Goa",
+    "city": "Baga",
+    "location": "Baga Beach, Baga, Goa 403516",
+    "image": "https://media.istockphoto.com/id/1157048446/photo/aerial-shot-of-the-beach-from-above-showing-sea-beach-mountain-and-a-coconut-plantation-goa.jpg?s=612x612&w=0&k=20&c=BE0ZCnKZj8xi9Zgx5meO77k-o8v8EPT9TwlsPvY3TMc=",
+    "featured": true
+  },
+  {
+    "name": "Palolem Beach",
+    "typeOf": "BEACH",
+    "description": "A serene and scenic beach in South Goa, known for its beautiful crescent shape and relaxed ambiance.",
+    "state": "Goa",
+    "city": "Palolem",
+    "location": "Palolem Beach, Palolem, Goa 403702",
+    "image": "https://media.istockphoto.com/id/482535663/photo/goa-palolem-beach-from-above.jpg?s=612x612&w=0&k=20&c=cukI6ZyWRj2UOvIPWagF_6eXFGD0R5UyFEXPLAQ4cfY=",
+    "featured": true
+  },
+  {
+    "name": "Varkala Beach",
+    "typeOf": "BEACH",
+    "description": "A stunning beach known for its cliffs, natural springs, and scenic beauty. It’s a tranquil spot for relaxation and wellness.",
+    "state": "Kerala",
+    "city": "Varkala",
+    "location": "Varkala Beach, Varkala, Kerala 695141",
+    "image": "https://media.istockphoto.com/id/182721585/photo/varkala-beach.jpg?s=612x612&w=0&k=20&c=TXZOCARN12ZfNgFiWd8BGiDCfjLft4ZdEBsKHOUKaOY=",
+    "featured": false
+  },
+  {
+    "name": "Kovalam Beach",
+    "typeOf": "BEACH",
+    "description": "Famous for its crescent-shaped beaches and lighthouses, Kovalam Beach is a major tourist destination in Kerala with beautiful coastal views.",
+    "state": "Kerala",
+    "city": "Kovalam",
+    "location": "Kovalam Beach, Kovalam, Kerala 695527",
+    "image": "https://media.istockphoto.com/id/1666865126/video/kovalam-beachside.jpg?s=640x640&k=20&c=gS8CKCIYiebpA3F-Ye_HLlA3fVYCYekOpMgUCs0Uho4=",
+    "featured": false
+  },
+  {
+    "name": "ECR Beach",
+    "typeOf": "BEACH",
+    "description": "A popular beach located along the East Coast Road, known for its serene environment and less crowded atmosphere compared to Marina Beach.",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "location": "East Coast Road, Chennai, Tamil Nadu 600041",
+    "image": "https://media.istockphoto.com/id/1151829491/photo/chennai-tamilnadu-india-febrauary-15-2019-covelong-beach-in-chennai.jpg?s=612x612&w=0&k=20&c=R2jILJFqXXFkFZ6IU7XEXf60U3gIji0SAI1sDYjxJfc=",
+    "featured": false
+  },
+  {
+    "name": "Brihadeeswarar Temple",
+    "typeOf": "HISTORICAL",
+    "description": "A UNESCO World Heritage Site known for its grand Chola architecture.",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "location": "Brihadeeswarar Temple, Thanjavur, Tamil Nadu 613001",
+    "image": "https://media.istockphoto.com/id/955946186/photo/brihadisvara-temple-tanjore-tamil-nadu-india-view-from-south-east.jpg?s=612x612&w=0&k=20&c=aNFJWgxGx6coQhu9WDax75PJiYt4GbmWo1Ue_vap-zA=",
+    "featured": false
+  },
+  {
+    "name": "Ooty",
+    "typeOf": "HILL STATION",
+    "description": "A popular hill station known for its beautiful gardens and pleasant climate.",
+    "state": "Tamil Nadu",
+    "city": "Ooty",
+    "location": "Ooty, Tamil Nadu 643001",
+    "image": "https://media.istockphoto.com/id/1418549083/photo/ooty-view.jpg?s=612x612&w=0&k=20&c=LdYD9ejlOAT7XKccsgR1tm6EbmVxb6sFVIyam-f_lq4=",
+    "featured": true
+  },
+  {
+    "name": "Victoria Memorial",
+    "typeOf": "HISTORICAL",
+    "description": "A majestic monument dedicated to Queen Victoria, located in Kolkata.",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "location": "1 Queen's Way, Kolkata, West Bengal 700071",
+    "image": "https://media.istockphoto.com/id/1164616564/photo/victoria-memorial-ancient-white-marble-monument-at-kolkata-at-sunset.jpg?s=612x612&w=0&k=20&c=isr81zWNep-328aNbqq0vwty_TYiGE_FilJ5EfZ2WL0=",
+    "featured": false
+  },
+  {
+    "name": "Darjeeling",
+    "typeOf": "HILL STATION",
+    "description": "A famous hill station known for its tea plantations and stunning views of the Himalayas.",
+    "state": "West Bengal",
+    "city": "Darjeeling",
+    "location": "Darjeeling, West Bengal 734101",
+    "image": "https://media.istockphoto.com/id/512978969/photo/darjeeling-town-and-tea-plantation-with-himalaya-mountains.jpg?s=612x612&w=0&k=20&c=akb6PoJL9ysBWQzEezhcKAPPKyHWcDwGDVxzkHx7u40=",
+    "featured": true
+  },
+  {
+    "name": "Sundarbans National Park",
+    "typeOf": "NATURE",
+    "description": "A UNESCO World Heritage Site known for its mangrove forests and royal Bengal tigers.",
+    "state": "West Bengal",
+    "city": "Sundarbans",
+    "location": "Sundarbans, West Bengal 743370",
+    "image": "https://media.istockphoto.com/id/1977714679/photo/sundarbans-national-park-in-bangladesh.jpg?s=612x612&w=0&k=20&c=Al6P3GKKT36tbIDy4YjUgHBqDcBkCoot2ehclz418g0=",
+    "featured": true
+  },
+
+  {
+    "name": "Raigad Fort",
+    "typeOf": "FORT",
+    "description": "A historic fort in the Sahyadri mountain range, known as the capital of Shivaji Maharaj.",
+    "state": "Maharashtra",
+    "city": "Raigad",
+    "location": "Raigad Fort, Raigad, Maharashtra 402303",
+    "image": "https://vajiram-prod.s3.ap-south-1.amazonaws.com/Rajgad_Fort_2eaa0ca9a4.jpg",
+    "featured": true
+  },
+  {
+    "name": "Lonavala Fort",
+    "typeOf": "FORT",
+    "description": "A fort situated in the Western Ghats, offering panoramic views of the surrounding hills.",
+    "state": "Maharashtra",
+    "city": "Lonavala",
+    "location": "Lonavala Fort, Lonavala, Maharashtra 410401",
+    "featured": false,
+    "image": "https://t3.ftcdn.net/jpg/01/73/46/12/240_F_173461226_ptkWYrVd9d6bkA2Ot4bYsSZVrpc2aObG.jpg"
+  },
+  {
+    "name": "Sindhudurg Fort",
+    "typeOf": "FORT",
+    "description": "A coastal fort located on an island in the Arabian Sea, built by Shivaji Maharaj.",
+    "state": "Maharashtra",
+    "city": "Sindhudurg",
+    "location": "Sindhudurg Fort, Sindhudurg, Maharashtra 416606",
+    "featured": false,
+    "image": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/sindhudurg-fort-sunny-nikam.jpg"
+  },
+  {
+    "name": "Amber Fort",
+    "typeOf": "FORT",
+    "description": "A majestic fort located in Jaipur, known for its blend of Hindu and Rajput architecture.",
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "location": "Amber Fort, Jaipur, Rajasthan 302028",
+    "featured": false,
+    "image": "https://media.istockphoto.com/id/1421235242/photo/amber-or-amer-fort.jpg?s=612x612&w=0&k=20&c=Couj3ijSwpzB8q-VPkAg2WrSMybvaXQXjRlJlL5goGc="
+  },
+  {
+    "name": "Mehrangarh Fort",
+    "typeOf": "FORT",
+    "description": "A massive fort located in Jodhpur, offering spectacular views of the city.",
+    "state": "Rajasthan",
+    "city": "Jodhpur",
+    "location": "Mehrangarh Fort, Jodhpur, Rajasthan 342006",
+    "featured": false,
+    "image": "https://media.istockphoto.com/id/488475315/photo/mehrangarh-fort-jodhpur-india.jpg?s=612x612&w=0&k=20&c=Soh1IJCTrKyHsIs1YyYYrnRBB57nY4oYQ2YaRXEYUzA="
+  },
+  {
+    "name": "Chittorgarh Fort",
+    "typeOf": "FORT",
+    "description": "One of the largest forts in India, known for its historical significance and grand architecture.",
+    "state": "Rajasthan",
+    "city": "Chittorgarh",
+    "location": "Chittorgarh Fort, Chittorgarh, Rajasthan 312001",
+    "featured": false,
+    "image": "https://media.istockphoto.com/id/1311347871/photo/gaumukh-reservoir-at-chittor-fort-in-chittorgarh-rajasthan-state-ind.jpg?s=612x612&w=0&k=20&c=nf5Oo69zSQ-FsPuDLYO5OmaAMwF0fU5f27uvam4oPyk="
+  },
+  {
+    "name": "Rani Ki Vav",
+    "typeOf": "FORT",
+    "description": "A stepwell located in Patan, known for its intricate carvings and historical importance.",
+    "state": "Gujarat",
+    "city": "Patan",
+    "location": "Rani Ki Vav, Patan, Gujarat 384265",
+    "featured": false,
+    "image": "https://images.hindustantimes.com/rf/image_size_630x354/HT/p2/2018/11/17/Pictures/rani-ki-vav_017f49d6-ea6c-11e8-9b97-bd22f81a225c.jpg"
+  },
+  {
+    "name": "Shivneri Fort",
+    "typeOf": "FORT",
+    "description": "Shivneri Fort is a hill fort having a triangular shape and has its entrance from the South-west side of the hill. Apart from the main gate there is an entrance to the fort from side called locally as the chain gate, where in one has to hold chains to climb up to the fort gate.",
+    "state": "Maharashtra",
+    "city": "Pune",
+    "location": "5VV4+65Q, Unnamed Road, Kusur, Junnar, Maharashtra 410502",
+    "featured": true,
+    "image": "https://media.gettyimages.com/id/667261364/photo/mumbai-india-shivneri-fort-in-maharashtra-india.jpg?s=612x612&w=0&k=20&c=3Kp1lTTyuVvM2QF7yewl7huYCyVipVrZ4JF07bNgBto="
+  },
+  {
+    "name": "Junagadh Fort",
+    "typeOf": "FORT",
+    "description": "A historic fort in Junagadh, offering a glimpse into the region's rich history.",
+    "state": "Gujarat",
+    "city": "Junagadh",
+    "location": "Junagadh Fort, Junagadh, Gujarat 362001",
+    "featured": false,
+    "image": "https://media.istockphoto.com/id/96913441/photo/red-sandtone-palace-in-india.jpg?s=612x612&w=0&k=20&c=9iKzxjVocgwYnp_bJNGp5Aup_MpWWg81lvEnQG9uc-w="
+  },
+  {
+    "name": "Agra Fort",
+    "typeOf": "FORT",
+    "description": "A UNESCO World Heritage Site and a major Mughal fortification in Agra.",
+    "state": "Uttar Pradesh",
+    "city": "Agra",
+    "location": "Agra Fort, Agra, Uttar Pradesh 282003",
+    "featured": true,
+    "image": "https://media.istockphoto.com/id/520840182/photo/red-fort-lal-qila-with-indian-flag-delhi-india.jpg?s=612x612&w=0&k=20&c=pOIkOX7dnJh2zwJhF9HrknY7kwYZtDgOd1n98wkHCKQ="
+  },
+  {
+    "name": "Fatehpur Sikri",
+    "typeOf": "FORT",
+    "description": "A historic city and fort complex built by Mughal Emperor Akbar.",
+    "state": "Uttar Pradesh",
+    "city": "Fatehpur Sikri",
+    "location": "Fatehpur Sikri, Uttar Pradesh 283110",
+    "featured": false,
+    "image": "https://media.istockphoto.com/id/1160438275/photo/buland-darwaza-medieval-architecture-gateway-at-fatehpur-sikri-agra-with-view-of-decorated.jpg?s=612x612&w=0&k=20&c=x1lkYKlm5xA2wALPx60WfJO45hUxu5E4fUy24in6FZo="
+  },
+  {
+    "name": "Gwalior Fort",
+    "typeOf": "FORT",
+    "description": "A historic fort known for its grandeur and rich history, located in Gwalior.",
+    "state": "Madhya Pradesh",
+    "city": "Gwalior",
+    "location": "Gwalior Fort, Gwalior, Madhya Pradesh 474001",
+    "featured": false,
+    "image": "https://media.istockphoto.com/id/186954160/photo/fort-and-palace-of-indias-gwalior-is-built-on-cliff.jpg?s=612x612&w=0&k=20&c=DIWR-VrDbxtV4VeWFZDYswH9tAM7wBJQPY2Eh6g4aV0="
+  },
+  {
+    "name": "Mandu Fort",
+    "typeOf": "FORT",
+    "description": "A historic fort in Mandu, known for its architectural beauty and historical significance.",
+    "state": "Madhya Pradesh",
+    "city": "Mandu",
+    "location": "Mandu Fort, Mandu, Madhya Pradesh 454010",
+    "featured": false,
+    "image": "https://media.istockphoto.com/id/668729904/photo/jahaz-mahal-ship-palace-in-mandu-india.jpg?s=612x612&w=0&k=20&c=YCpYeBw9mBjcI-AOHg8oM3DaZWiQiKe4QZ1bTF-VSHg="
+  }
 ]
