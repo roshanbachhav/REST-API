@@ -62,6 +62,10 @@ const dataSchema = new mongoose.Schema({
     type: Boolean,
     default: false,
   },
+  image: {
+    type: String,
+    required: true,
+  },
   rating: {
     type: Number,
     default: 5,
