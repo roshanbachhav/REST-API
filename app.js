@@ -6,11 +6,7 @@ const PORT = process.env.PORT || 8080;
 const data_routes = require("./Routes/Data");
 const dbConnect = require("./Database/conn");
 
-app.use(
-  cors({
-    origin: "http://localhost:8080",
-  })
-);
+app.use(cors());
 
 
 app.get("/", (request, response) => {
