@@ -339,5 +339,188 @@
     "location": "Mandu Fort, Mandu, Madhya Pradesh 454010",
     "featured": false,
     "image": "https://media.istockphoto.com/id/668729904/photo/jahaz-mahal-ship-palace-in-mandu-india.jpg?s=612x612&w=0&k=20&c=YCpYeBw9mBjcI-AOHg8oM3DaZWiQiKe4QZ1bTF-VSHg="
+  },
+  {
+    "name": "Ajanta Caves",
+    "typeOf": "CAVE",
+    "description": "The first Buddhist cave monuments at Ajanta date from the 2nd and 1st centuries B.C. During the Gupta period (5th and 6th centuries A.D.), many more richly decorated caves were added to the original group. The paintings and sculptures of Ajanta, considered masterpieces of Buddhist religious art, have had a considerable artistic influence.",
+    "state": "Maharashtra",
+    "city": "Aurangabad",
+    "location": "Ajanta Caves, Aurangabad, Maharashtra 431001",
+    "image": "https://media.istockphoto.com/id/483439954/photo/ajanta-caves-buddhist-temples-in-arrangabad-india.jpg?s=612x612&w=0&k=20&c=9F6vucrKQiM59C34XTwVvxbVZrUFEP1Bsekip5utEXc=",
+    "featured": true
+  },
+  {
+    "name": "Ellora Caves",
+    "typeOf": "CAVE",
+    "description": "These 34 monasteries and temples, extending over more than 2 km, were dug side by side in the wall of a high basalt cliff, not far from Aurangabad, in Maharashtra. Ellora, with its uninterrupted sequence of monuments dating from A.D. 600 to 1000, brings the civilization of ancient India to life. Not only is the Ellora complex a unique artistic creation and a technological exploit but, with its sanctuaries devoted to Buddhism, Hinduism and Jainism, it illustrates the spirit of tolerance that was characteristic of ancient India.",
+    "state": "Maharashtra",
+    "city": "Aurangabad",
+    "location": "Ellora, Aurangabad, Maharashtra 431102",
+    "image": "https://media.istockphoto.com/id/491728760/photo/kailasa-temple.jpg?s=612x612&w=0&k=20&c=mynTdecW2Aviio8EjVvdMLaHk0awdwsdrKNRC66NN7I=",
+    "featured": true
+  },
+  {
+    "name": "Badami Caves",
+    "typeOf": "CAVE",
+    "description": "1 km, this group of 4 cave temples have been carved out of the hill opposite Badami fort. The Chalukyan king, Mangalesa(598-610)AD)was responsible for the completion of these cave temples. Of the four, three are Brahmanical, while the fourth is Jain. Nearly 2000 steps have to be climbed to reach the cave.",
+    "state": "Karnataka",
+    "city": "Bagalkot",
+    "location": "Badami, Bagalkot, Karnataka 587201",
+    "image": "https://media.istockphoto.com/id/174951923/photo/badami.jpg?s=612x612&w=0&k=20&c=jTSZJc-8LngecjGpeENL1kqWoar6bRQogoDHoau1pUM=",
+    "featured": true
+  },
+  {
+    "name": "Udayagiri and Khandagiri Caves",
+    "typeOf": "CAVE",
+    "description": "The most extraordinary achievement of these beautifully carved caves is that each cave and sculpture was painstakingly carved by hand using basic tools. The architecture and exquisite carving is of top drawer. The carvings drew references from mythology and history. One of the most poignant section of carving is the depiction of the Kalinga War, where women and teenagers are depicted fighting to save their motherland from Ashoka’s army.",
+    "state": "Odisha",
+    "city": "Bhubaneswar",
+    "location": "Udayagiri and Khandagiri, Bhubaneswar, Odisha 751003",
+    "image": "https://media.istockphoto.com/id/1355271083/photo/hathi-gumpha-udaygiri-caves-orissa-india-natural-cave-cavern-thought-to-have-been-an-elephant.jpg?s=612x612&w=0&k=20&c=xlxBlhUD5VKD3VAAgoAAfuH66DRa5Wuh6sjh3uKqiks=",
+    "featured": false
+  },
+  {
+    "name": "Borra Caves",
+    "typeOf": "CAVE",
+    "description": "Limestone caves featuring impressive stalactites and stalagmites, set in the scenic Araku Valley.The Borra Caves are located on the East Coast of India, in the Ananthagiri hills of the Araku Valley of the Alluri Sitharama Raju district in Andhra Pradesh",
+    "state": "Andhra Pradesh",
+    "city": "Visakhapatnam",
+    "location": "Borra, Araku Valley, Visakhapatnam, Andhra Pradesh 531149",
+    "image": "https://media.istockphoto.com/id/972118568/photo/inside-view-of-borra-caves-formed-by-solidified-stalactites-and-stalagmites-in-the-karstic.jpg?s=612x612&w=0&k=20&c=wyf7Xe0uWQfY2sG0L5SL2RJDRZakfs2Mn8nfQtTaEWw=",
+    "featured": false,
+    "rating": 4
+  },
+  {
+    "name": "Kailasa Temple (Ellora Caves)",
+    "typeOf": "CAVE",
+    "description": "The Kailasha or Kailashanatha temple is the largest of the rock-cut temples at the Ellora Caves near Chhatrapati Sambhajingar district, Maharashtra of Maharashtra, India.",
+    "state": "Maharashtra",
+    "city": "Aurangabad",
+    "location": "Ellora Caves, Aurangabad, Maharashtra 431102",
+    "image": "https://media.istockphoto.com/id/531012475/photo/ellora-caves-maharashtra-india.jpg?s=612x612&w=0&k=20&c=Xb2rQVrLTA0cFdr_WquuHnACAaMsZlSUG4U56mGC_eA=",
+    "featured": false
+  },
+  {
+    "name": "Trimbakeshwar Jyotirling Mandir",
+    "typeOf": "TEMPLE",
+    "description": "Trimbakeshwar Shiva Temple is an ancient Hindu temple in the town of Trimbak, in the Trimbakeshwar tehsil in the Nashik District of Maharashtra, India, 28 km from the city of Nashik and 40 km from Nashik road",
+    "state": "Maharashtra",
+    "city": "Nashik",
+    "location": "28 km from Nashik, Maharashtra.",
+    "image": "https://media.istockphoto.com/id/1281013699/photo/jyotirling-trimbakeshwar-shiva-temple-in-foothill-of-westarn-ghat-near-nasik.jpg?s=612x612&w=0&k=20&c=LCI37Iiz4PDVRznkLGV2sfH5nmDeLXVgEUNpg1FhleI=",
+    "featured": true
+  },
+  {
+    "name": "Brihadeeswarar Temple",
+    "typeOf": "TEMPLE",
+    "description": "Brihadishvara Temple, called Rajarajesvaram by its builder, and known locally as Thanjai Periya Kovil and Peruvudaiyar Kovil, is a Shaivite Hindu temple built in a Chola architectural style located on the south bank of the Cauvery river in Thanjavur, Tamil Nadu, India.",
+    "state": "Tamil Nadu",
+    "city": "Thanjavur",
+    "location": "Thanjavur, Tamil Nadu 613007",
+    "image": "https://media.istockphoto.com/id/1455552376/photo/brihadishwara-temple-tanjore.jpg?s=612x612&w=0&k=20&c=lFKBtr6LOD2WfdiRxINYbRdOGPw9UJLtNde3VLqRkRU=",
+    "featured": false
+  },
+  {
+    "name": "Kashi Vishwanath Temple",
+    "typeOf": "TEMPLE",
+    "description": "Kashi Vishwanath Temple is one of the most famous temple in Varanasi, also known as the Golden temple dedicated to the Lord Shiva. It was constructed in the year 1780 by the Maratha monarch, Maharani Ahilyabai Holkar of the Indore",
+    "state": "Uttar Pradesh",
+    "city": "Varanasi",
+    "location": "Lahori Tola, Varanasi, Domari, Uttar Pradesh 221001",
+    "image": "https://media.istockphoto.com/id/896426616/photo/kashi-vishwanath-temple-varanasi.jpg?s=612x612&w=0&k=20&c=K20C60eiVV6J66Mw2j3yFWxWxJQbb8Pfg7ZKNnBDJ3Q=",
+    "featured": false
+  },
+  {
+    "name": "Golden Temple",
+    "typeOf": "TEMPLE",
+    "description": "The Golden Temple Amritsar India (Sri Darbar Sahib Amritsar) is not only a central religious place of the Sikhs, but also a symbol of human brotherhood and equality. Everybody, irrespective of cast, creed or race can seek spiritual solace and religious fulfilment without any hindrance. It also represents the distinct identity, glory and heritage of the Sikhs.",
+    "state": "Punjab",
+    "city": "Amritsar",
+    "location": "Amritsar, Punjab 143001",
+    "image": "https://media.istockphoto.com/id/535570117/photo/golden-temple-in-amritsar-punjab-india.jpg?s=612x612&w=0&k=20&c=TAgZK64Qz6YsljOK1rXZrrW1u1YSlb9e_YBEmm2pfBw=",
+    "featured": false
+  },
+  {
+    "name": "Jama Masjid",
+    "typeOf": "MOSQUE",
+    "description": "One of the largest mosques in India, located in Delhi, renowned for its grand architecture and historical significance.",
+    "state": "Delhi",
+    "city": "Delhi",
+    "location": "Jama Masjid, Delhi 110006",
+    "image": "https://media.istockphoto.com/id/475563254/photo/jama-masjid-delhi-india.jpg?s=612x612&w=0&k=20&c=n-hkklNgHPZBinl6BPpjYFwpS0k9zJh7Z-uI3JNpYTY=",
+    "featured": true
+  },  
+  {
+    "name": "Ranganathaswamy Temple",
+    "typeOf": "TEMPLE",
+    "description": "The Ranganathaswamy Temple is a Hindu temple dedicated to Ranganatha (a form of Vishnu) and is located in Srirangam, Tiruchirapalli, Tamil Nadu, India",
+    "state": "Tamil Nadu",
+    "city": "Srirangam",
+    "location": "Srirangam, Tamil Nadu 620006",
+    "image": "https://media.istockphoto.com/id/181070287/photo/sri-ranganathaswamy-temple-tamil-nadu-india.jpg?s=612x612&w=0&k=20&c=bG_2zCZNnlK4mARblnuvv88TRTn3MGshbV_a5mirWFQ=",
+    "featured": false
+  },
+  {
+    "name": "Jagannath Temple",
+    "typeOf": "TEMPLE",
+    "description": "A famous Hindu temple dedicated to Lord Jagannath, renowned for its annual Rath Yatra festival.",
+    "state": "Odisha",
+    "city": "Puri",
+    "location": "Puri, Odisha 752001",
+    "image": "https://media.istockphoto.com/id/1029765384/photo/the-shree-jagannath-temple-at-puri-india.jpg?s=612x612&w=0&k=20&c=oFRibvWdWbXw8PE-ETpDPh_lbECL2Caqi7M9XAV1wk0=",
+    "featured": false
+  },
+  {
+    "name": "Basilica of Bom Jesus",
+    "typeOf": "CHURCH",
+    "description": "A historic church in Goa, famous for its Baroque architecture and the tomb of St. Francis Xavier.",
+    "state": "Goa",
+    "city": "Old Goa",
+    "location": "Old Goa, Goa 403402",
+    "image": "https://media.istockphoto.com/id/2150136159/photo/the-basilica-of-bom-jesus-in-goa-india.jpg?s=612x612&w=0&k=20&c=V-QxPwHnv7Y0GkdHAvA9uLsf7kkhAXmxyFRtP9MVUtI=",
+    "featured": true
+  },
+  {
+    "name": "St. Thomas Church",
+    "typeOf": "CHURCH",
+    "description": "One of the oldest churches in India, located in Chennai, known for its Gothic architecture and historical significance.",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "location": "Santhome High Road, Chennai, Tamil Nadu 600004",
+    "image": "https://media.istockphoto.com/id/2085849215/photo/the-chapel-of-saint-thomas-becket-lighten-by-a-strong-sunlight-with-a-rainbow-behind-in-rainy.jpg?s=612x612&w=0&k=20&c=vGhGxifK3hzazSGkRTqO2tJw63qJJXEoHftw_cNeo4k=",
+    "featured": false
+  },
+  {
+    "name": "Lingaraj Temple",
+    "typeOf": "TEMPLE",
+    "description": "A major Hindu temple dedicated to Lord Shiva, known for its large size and intricate carvings.",
+    "state": "Odisha",
+    "city": "Bhubaneswar",
+    "location": "Bhubaneswar, Odisha 751002",
+    "image": "https://media.istockphoto.com/id/1390711959/photo/lingaraj-temple-in-bhubaneswar.jpg?s=612x612&w=0&k=20&c=3pcUTphGITRWTXBOD5AU4IGgij-08dJvxXwEBQhpxvM=",
+    "featured": false
+  },
+  {
+    "name": "Hampi Temples",
+    "typeOf": "TEMPLE",
+    "description": "An ancient temple complex in Hampi known for its architectural grandeur and historical significance.",
+    "state": "Karnataka",
+    "city": "Hampi",
+    "location": "Hampi, Karnataka 583239",
+    "image": "https://media.istockphoto.com/id/137336783/photo/vittala-temple-stone-chariot-hampi-karnataka-india.jpg?s=612x612&w=0&k=20&c=mQq4me5Nr_8uWnr4eQcJCSy5tcZ46H-QzIxrYsn6f2E=",
+    "featured": false
+  },
+  {
+    "name": "Chidambaram Temple",
+    "typeOf": "TEMPLE",
+    "description": "A historic temple dedicated to Lord Shiva, known for its Nataraja statue and grand architecture.",
+    "state": "Tamil Nadu",
+    "city": "Chidambaram",
+    "location": "Chidambaram, Tamil Nadu 608001",
+    "image": "https://media.istockphoto.com/id/145053628/photo/chidambaram.jpg?s=612x612&w=0&k=20&c=d4KsHEOsILFhhkS5QCYGn_LCWLk9OMoXRdmUQlSMUwE=",
+    "featured": false
   }
+
+  
 ]
