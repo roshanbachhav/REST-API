@@ -51,4 +51,21 @@ const getAllData = async (request, response) => {
     });
 };
 
-module.exports = { getAllData };
+
+const getDataById = async (request , response) => {
+    try{
+        const { id } = request.params;
+        const place = await data.findById(id);
+
+        if(!place){
+            return response.status(404).json({message: "Opps data was not found..."});
+        }
+
+        response.status(200).json({ place });
+    }catch(e){
+        response.status(500).json({ message : "Server issue", e});
+    }
+};
+
+
+module.exports = { getAllData, getDataById };
